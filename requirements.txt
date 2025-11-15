@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain_experimental
+huggingface_hub
+faiss-cpu
+python-dotenv
+pydantic
+requests
+duckduckgo-search
+-U ddgs
